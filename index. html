@@ -1,1 +1,106 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Logística Reversa no Agro</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        header {
+            background-color: #2e7d32;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        nav {
+            background-color: #1b5e20;
+            padding: 10px;
+            text-align: center;
+        }
+        nav a {
+            color: white;
+            margin: 0 15px;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        section {
+            padding: 20px;
+            margin: 20px;
+            background: white;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        footer {
+            background-color: #2e7d32;
+            color: white;
+            text-align: center;
+            padding: 10px;
+        }
+        button {
+            background-color: #4caf50;
+            border: none;
+            color: white;
+            padding: 10px 20px;
+            cursor: pointer;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Agro Forte, Futuro Sustentável</h1>
+    <p>Logística Reversa de Embalagens de Defensivos Agrícolas</p>
+</header>
+
+<nav>
+    </a>
+    <a href="#problema">Problema</a>
+    <a href="#solucao">Solução</a>
+    <a href="#importancia">Importância</a>
+</nav>
+
+<section id="introducao">
+    <h2>Introdução</h2>
+    <p>Este projeto foi desenvolvido com base no tema do edital: <strong>"Agro forte, futuro sustentável: equilíbrio entre produção e meio ambiente"</strong>. 【1-09b5ee】</p>
+    <p>A logística reversa é um processo que garante o retorno correto das embalagens de defensivos agrícolas, evitando impactos ambientais.</p>
+</section>
+
+<section id="problema">
+    <h2>O Problema</h2>
+    <p>O descarte incorreto dessas embalagens pode contaminar o solo, a água e prejudicar a saúde das pessoas.</p>
+    <ul>
+        <li>Poluição ambiental</li>
+        <li>Contaminação de alimentos</li>
+        <li>Riscos à saúde humana</li>
+    </ul>
+</section>
+
+<section id="solucao">
+    <h2>Solução: Logística Reversa</h2>
+    <p>A logística reversa funciona por meio de um ciclo:</p>
+    <ol>
+        <li>Uso do defensivo agrícola</li>
+        <li>Lavagem correta da embalagem</li>
+        <li>Devolução em postos de coleta</li>
+        <li>Reciclagem ou descarte adequado</li>
+    </ol>
+</section>
+
+<section id="importancia">
+    <h2>Importância</h2>
+    <p>Esse processo ajuda a preservar o meio ambiente e manter a sustentabilidade no campo, alinhando produção agrícola com responsabilidade ambiental.</p>
+</section>
+
+<footer>
+    <p>Projeto Agrinho 2026 - Programação Front-End</p>
+</footer>
+
+</body>
+</html>
 
